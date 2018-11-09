@@ -2,4 +2,4 @@
 
 Scripts that control equipment
 
-- Motorized stage for AFM (python)
+- motorisedStageOpticalImaging: controls x/y motorised stage for AFM (python)
